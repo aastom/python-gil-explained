@@ -1,3 +1,10 @@
+## 📚 Documentation
+
+The complete documentation bundle, including a rich-text version of this guide, a learning roadmap, and supporting references are available on Google Drive.
+
+*   **[Drive Folder: Python's GIL Explained — R&D Lab](https://drive.google.com/drive/folders/1WelMwZ-b5oUExw_V0bywk4McU-ppNoaA)**
+*   **[Documentation Bundle](https://docs.google.com/document/d/1T2pzc_aSiEC_VgYicD6GojRDBnxetWNY4s4J0jCzvkM/edit)**
+
 # Python's Global Interpreter Lock (GIL) Explained
 
 This guide explains what the Python Global Interpreter Lock (GIL) is, why it exists, and its practical implications for developers. We'll explore the difference between CPU-bound and I/O-bound tasks and demonstrate how to choose the right concurrency model for your code.
